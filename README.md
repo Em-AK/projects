@@ -15,4 +15,5 @@ A [Lita](https://www.lita.io/) bot framework
 [adapter](https://docs.lita.io/plugin-authoring/adapters/) for mattermost
 
 * [mattermost-ruby](https://github.com/joshmn/mattermost-ruby) should be helpfull
+* Communicate [on this issue](https://github.com/litaio/lita/issues/152) when something is ready to be shown
 
